@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DARSHAK  KAKADIYa
+- 👋 Hi, I’m DARSHAK  KAKADIYA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning diploma in IT
 
