@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DARSHAK  KAKADIYA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning web3
 
 <!---
 darshak3112/darshak3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
